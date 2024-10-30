@@ -1,0 +1,154 @@
+.content-form {
+    width: 100%;
+    height: 750px;
+    background-color: rgb(236, 238, 238);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+body {
+    background-color: rgb(236, 238, 238);
+}
+
+form {
+    width: 25%;
+    background-color: rgb(255, 255, 255);
+    padding: 30px;
+    border-radius: 15px;
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+input[type=text] ,input[type=password] {
+    width: 100%;
+    height: 40px;
+    padding: 2px 50px;
+    margin: 3px 0px;
+    border-radius: 5px;
+    border: none;
+    border-bottom: 2px solid #172cec;
+    font-style: italic;
+    outline: none;
+    transition: all .3s ease-out 0s;
+}
+
+input[type=text] {
+    background-image: url('/img/avatar-de-usuario.png');
+    background-repeat: no-repeat;
+    background-position: 8px 0px;
+    background-size:contain;
+}
+
+input[type=password] {
+    background-image: url('/img/cerrar-con-llave.png');
+    background-repeat: no-repeat;
+    background-position: 9px 5px;
+    background-size: 28px 28px;
+}
+
+input[type=text] ,input[type=password]:focus {
+    border-bottom: 2px solid #17ec4c;
+    font-style: normal;
+}
+
+form button {
+    margin: 30px 0px;
+    background-color: #1564cc;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    padding: 10px 30px;
+    font-size: 16px;
+}
+
+.content-item {
+    width: 100%;
+    margin: 10px 0px;
+}
+
+.content-item label {
+    color: rgb(173, 173, 173);
+}   
+
+.content-item p {
+    font-size: 14px;
+    color: rgb(114, 112, 112);
+    text-align: center;
+}
+
+.img-form {
+    overflow: hidden;
+    width: 50%;
+}
+
+.img-form img {
+    width: 200px;  
+}
+
+/*--    SPINNER */
+
+.sk-cube-grid {
+    width: 60px;
+    height: 60px;
+    margin: 100px auto;
+  }
+  
+  .sk-cube-grid .sk-cube {
+    width: 33%;
+    height: 33%;
+    background-color: #0b73eb;
+    float: left;
+    -webkit-animation: sk-cubeGridScaleDelay 1.3s infinite ease-in-out;
+            animation: sk-cubeGridScaleDelay 1.3s infinite ease-in-out; 
+  }
+  .sk-cube-grid .sk-cube1 {
+    -webkit-animation-delay: 0.2s;
+            animation-delay: 0.2s; }
+  .sk-cube-grid .sk-cube2 {
+    -webkit-animation-delay: 0.3s;
+            animation-delay: 0.3s; }
+  .sk-cube-grid .sk-cube3 {
+    -webkit-animation-delay: 0.4s;
+            animation-delay: 0.4s; }
+  .sk-cube-grid .sk-cube4 {
+    -webkit-animation-delay: 0.1s;
+            animation-delay: 0.1s; }
+  .sk-cube-grid .sk-cube5 {
+    -webkit-animation-delay: 0.2s;
+            animation-delay: 0.2s; }
+  .sk-cube-grid .sk-cube6 {
+    -webkit-animation-delay: 0.3s;
+            animation-delay: 0.3s; }
+  .sk-cube-grid .sk-cube7 {
+    -webkit-animation-delay: 0s;
+            animation-delay: 0s; }
+  .sk-cube-grid .sk-cube8 {
+    -webkit-animation-delay: 0.1s;
+            animation-delay: 0.1s; }
+  .sk-cube-grid .sk-cube9 {
+    -webkit-animation-delay: 0.2s;
+            animation-delay: 0.2s; }
+  
+  @-webkit-keyframes sk-cubeGridScaleDelay {
+    0%, 70%, 100% {
+      -webkit-transform: scale3D(1, 1, 1);
+              transform: scale3D(1, 1, 1);
+    } 35% {
+      -webkit-transform: scale3D(0, 0, 1);
+              transform: scale3D(0, 0, 1); 
+    }
+  }
+  
+  @keyframes sk-cubeGridScaleDelay {
+    0%, 70%, 100% {
+      -webkit-transform: scale3D(1, 1, 1);
+              transform: scale3D(1, 1, 1);
+    } 35% {
+      -webkit-transform: scale3D(0, 0, 1);
+              transform: scale3D(0, 0, 1);
+    } 
+  }

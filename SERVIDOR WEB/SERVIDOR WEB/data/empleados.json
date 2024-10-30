@@ -1,0 +1,213 @@
+[
+    {
+        "id": 1,
+        "nombre": "Abraham Duran",
+        "correo": "sistemas@blb.mx",
+        "password": "Ma.212204",
+        "permisos": [
+            {"Ncarpeta": "administracion"},
+            {"Ncarpeta": "asistente"},
+            {"Ncarpeta": "cobranza"},
+            {"Ncarpeta": "compras"},
+            {"Ncarpeta": "produccion"},
+            {"Ncarpeta": "ventas"},
+            {"Ncarpeta": "rh"},
+            {"Ncarpeta": "formulaciones"},
+            {"Ncarpeta": "imagen"},
+            {"Ncarpeta": "community"},
+            {"Ncarpeta": "recepcion"},
+            {"Ncarpeta": "calidad"},
+            {"Ncarpeta": "proyectos"},
+            {"Ncarpeta": "ceo"},
+            {"Ncarpeta": "blb"},
+            {"Ncarpeta": "sistemas"}
+        ],
+        "empresa": "DISTRIBUIDORA BLB"
+    },
+    {
+        "id": 2,
+        "nombre": "Francisco",
+        "correo": "gteoperaciones@blb.mx",
+        "password": "#KD9E5QY",
+        "permisos": [
+            {"Ncarpeta": "produccion"},
+            {"Ncarpeta": "blb"}
+        ],
+        "empresa": "DISTRIBUIDORA BLB"
+    },
+    {
+        "id": 3,
+        "nombre": "Salvador Gonzales Bailon",
+        "correo": "salvadorgonzalez@blb.mx",
+        "password": "BUZF64L#",
+        "permisos": [
+            {"Ncarpeta": "administracion"},
+            {"Ncarpeta": "asistente"},
+            {"Ncarpeta": "cobranza"},
+            {"Ncarpeta": "compras"},
+            {"Ncarpeta": "produccion"},
+            {"Ncarpeta": "ventas"},
+            {"Ncarpeta": "rh"},
+            {"Ncarpeta": "formulaciones"},
+            {"Ncarpeta": "imagen"},
+            {"Ncarpeta": "community"},
+            {"Ncarpeta": "recepcion"},
+            {"Ncarpeta": "calidad"},
+            {"Ncarpeta": "proyectos"},
+            {"Ncarpeta": "ceo"},
+            {"Ncarpeta": "blb"},
+            {"Ncarpeta": "sistemas"}
+        ],
+        "empresa": "DISTRIBUIDORA BLB"
+    },
+    {
+        "id": 4,
+        "nombre": "Miguel Medel",
+        "correo": "administracionyfinanzas@blb.mx",
+        "password": "DKLBPV%S",
+        "permisos": [
+            {"Ncarpeta": "administracion"},
+            {"Ncarpeta": "cobranza"},
+            {"Ncarpeta": "compras"},
+            {"Ncarpeta": "facturacion"},
+            {"Ncarpeta": "blb"},
+            {"Ncarpeta": "sistemas"}
+        ],
+        "empresa": "DISTRIBUIDORA BLB"
+    },
+    {
+        "id": 5,
+        "nombre": "Jaime Castro",
+        "correo": "gtecomercial@blb.mx",
+        "password": "$X%#YNMH",
+        "permisos": [
+            {"Ncarpeta": "ventas"},
+            {"Ncarpeta": "blb"}
+        ],
+        "empresa": "DISTRIBUIDORA BLB"
+    },
+    {
+        "id": 6,
+        "nombre": "Karen Rodriguez",
+        "correo": "capitalhumano@blb.mx",
+        "password": "GEVXQ#EM",
+        "permisos": [
+            {"Ncarpeta": "rh"},
+            {"Ncarpeta": "blb"}
+        ],
+        "empresa": "DISTRIBUIDORA BLB"
+    },
+    {
+        "id": 7,
+        "nombre": "Claudia Romero",
+        "correo": "asistentedireccion@blb.mx",
+        "password": "BUZF64L#",
+        "permisos": [
+            {"Ncarpeta": "asistente"},
+            {"Ncarpeta": "blb"}
+        ],
+        "empresa": "DISTRIBUIDORA BLB"
+    },
+    {
+        "id": 8,
+        "nombre": "Fresia Jimenez",
+        "correo": "formulaciones@blb.mx",
+        "password": "BUZF64L2",
+        "permisos": [
+            {"Ncarpeta": "formulaciones"},
+            {"Ncarpeta": "blb"}
+        ],
+        "empresa": "DISTRIBUIDORA BLB"
+    },
+    {
+        "id": 9,
+        "nombre": "Sared Canelo",
+        "correo": "compras@blb.mx",
+        "password": "BUZF64L2",
+        "permisos": [
+            {"Ncarpeta": "compras"},
+            {"Ncarpeta": "blb"}
+        ],
+        "empresa": "DISTRIBUIDORA BLB"
+    },
+    {
+        "id": 10,
+        "nombre": "Gabriela",
+        "correo": "cobranza@blb.mx",
+        "password": "BUZF64L2",
+        "permisos": [
+            {"Ncarpeta": "cobranza"},
+            {"Ncarpeta": "blb"}
+        ],
+        "empresa": "DISTRIBUIDORA BLB"
+    },
+    {
+        "id": 11,
+        "nombre": "Jazmin",
+        "correo": "facturacion@blb.mx",
+        "password": "BUZF64L2",
+        "permisos": [
+            {"Ncarpeta": "facturacion"},
+            {"Ncarpeta": "blb"}
+        ],
+        "empresa": "DISTRIBUIDORA BLB"
+    },
+    {
+        "id": 12,
+        "nombre": "FATIMA IBARRA",
+        "correo": "communitymanager@blb.mx",
+        "password": "uk6pFy3L",
+        "permisos": [
+            {"Ncarpeta": "imagen"},
+            {"Ncarpeta": "community"},
+            {"Ncarpeta": "blb"}
+        ],
+        "empresa": "DISTRIBUIDORA BLB"
+    },
+    {
+        "id": 13,
+        "nombre": "Diego Martinez",
+        "correo": "imagen@blb.mx",
+        "password": "xvkqCM8V",
+        "permisos": [
+            {"Ncarpeta": "imagen"},
+            {"Ncarpeta": "community"},
+            {"Ncarpeta": "blb"}
+        ],
+        "empresa": "DISTRIBUIDORA BLB"
+    },
+    {
+        "id": 14,
+        "nombre": "Valeria Segura",
+        "correo": "recepcion@blb.mx",
+        "password": "ojGp9VXi",
+        "permisos": [
+            {"Ncarpeta": "recepcion"},
+            {"Ncarpeta": "blb"}
+        ],
+        "empresa": "DISTRIBUIDORA BLB"
+    },
+    {
+        "id": 15,
+        "nombre": "Octavio",
+        "correo": "calidad@blb.mx",
+        "password": "P6zdGuDx",
+        "permisos": [
+            {"Ncarpeta": "calidad"},
+            {"Ncarpeta": "blb"}
+        ],
+        "empresa": "DISTRIBUIDORA BLB"
+    },
+    {
+        "id": 16,
+        "nombre": "Maritza Sevilla",
+        "correo": "proyectos@blb.mx",
+        "password": "P6zdGuDx",
+        "permisos": [
+            {"Ncarpeta": "proyectos"},
+            {"Ncarpeta": "blb"}
+        ],
+        "empresa": "DISTRIBUIDORA BLB"
+    }
+    
+]

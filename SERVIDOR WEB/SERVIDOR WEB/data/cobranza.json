@@ -1,0 +1,182 @@
+[
+    {
+        "nombre": "001- MANUAL AUTORIZACIÓN DE PEDIDOS",
+        "ubicacion": "file/Documentacion/cobranza/001- MANUAL AUTORIZACIÓN DE PEDIDOS.docx",
+        "imagen": "img/doc.png" 
+    },
+    {
+        "nombre": "002- MANUAL DE RECEPCION Y CAPTURA DE PAGOS EN ASPEL",
+        "ubicacion": "file/Documentacion/cobranza/002- MANUAL DE RECEPCION Y CAPTURA DE PAGOS EN ASPEL.docx",
+        "imagen": "img/doc.png" 
+    },
+    {
+        "nombre": "003- PROCED DE CONTROL Y MANEJO DE DOCUMENTOS",
+        "ubicacion": "file/Documentacion/cobranza/003- PROCED DE CONTROL Y MANEJO DE DOCUMENTOS.docx",
+        "imagen": "img/doc.png" 
+    },
+    {
+        "nombre": "004- MANUAL DE COBRANZA",
+        "ubicacion": "file/Documentacion/cobranza/004- MANUAL DE COBRANZA.docx",
+        "imagen": "img/doc.png" 
+    },
+    {
+        "nombre": "005- MANUAL EMISIÓN DE COMPLEMENTOS DE PAGO",
+        "ubicacion": "file/Documentacion/cobranza/005- MANUAL EMISIÓN DE COMPLEMENTOS DE PAGO.docx",
+        "imagen": "img/doc.png" 
+    },
+    {
+        "nombre": "006- MANUAL DE ELABORACIÓN DE COMISIONES DE COBRANZA",
+        "ubicacion": "file/Documentacion/cobranza/006- MANUAL DE ELABORACIÓN DE COMISIONES DE COBRANZA.docx",
+        "imagen": "img/doc.png" 
+    },
+    {
+        "nombre": "010- MANUAL DE ACTUALIZACION DE BASE GENERAL DE COBRANZA",
+        "ubicacion": "file/Documentacion/cobranza/010- MANUAL DE ACTUALIZACION DE BASE GENERAL DE COBRANZA.docx",
+        "imagen": "img/doc.png" 
+    },
+    {
+        "nombre": "011- MANUAL DE ACTUALIZACION DEL ARCHIVO DE COMPARATIVA SEMANAL",
+        "ubicacion": "file/Documentacion/cobranza/011- MANUAL DE ACTUALIZACION DEL ARCHIVO DE COMPARATIVA SEMANAL.docx",
+        "imagen": "img/doc.png" 
+    },
+    {
+        "nombre": "013- MANUAL DE ENVIO DE REPORTE DE COMISIONES SEMANALES",
+        "ubicacion": "file/Documentacion/cobranza/013- MANUAL DE ENVIO DE REPORTE DE COMISIONES SEMANALES",
+        "imagen": "img/doc.png" 
+    },
+    {
+        "nombre": "004- MANUAL DE COBRANZA",
+        "ubicacion": "file/Documentacion/cobranza/014- MANUAL DE DEVOLUCIÓN.docx",
+        "imagen": "img/doc.png" 
+    },
+    {
+        "nombre": "016- MANUAL AUDITORIAS CON LOS ASESORES DE VENTAS",
+        "ubicacion": "file/Documentacion/cobranza/016- MANUAL AUDITORIAS CON LOS ASESORES DE VENTAS.docx",
+        "imagen": "img/doc.png" 
+    },
+    {
+        "nombre": "017- MANUAL DE DICTAMINACIÓN DE CUENTAS INCOBRABLES",
+        "ubicacion": "file/Documentacion/cobranza/017- MANUAL DE DICTAMINACIÓN DE CUENTAS INCOBRABLES.docx",
+        "imagen": "img/doc.png" 
+    },
+    {
+        "nombre": "BASE GENERAL DE COBRANZA 2",
+        "ubicacion": "file/Documentacion/cobranza/BASE GENERAL DE COBRANZA 2.xlsx",
+        "imagen": "img/sobresalir.png" 
+    },
+    {
+        "nombre": "Contrato de Vendedores BLB",
+        "ubicacion": "file/Documentacion/cobranza/Contrato de Vendedores BLB.docx",
+        "imagen": "img/doc.png" 
+    },
+    {
+        "nombre": "F1-PNP-CYC-001 FICHA DE ALTA DE CLIENTE v.001 -BLB",
+        "ubicacion": "file/Documentacion/cobranza/F1-PNP-CYC-001 FICHA DE ALTA DE CLIENTE v.001 -BLB.pdf",
+        "imagen": "img/pdf.png" 
+    },
+    {
+        "nombre": "F1-PNP-CYC-001 FICHA DE ALTA DE CLIENTE v.001 -BLB",
+        "ubicacion": "file/Documentacion/cobranza/F1-PNP-CYC-001 FICHA DE ALTA DE CLIENTE v.001 -BLB.xlsx",
+        "imagen": "img/sobresalir.png" 
+    },
+    {
+        "nombre": "F1-PNP-CYC-001 FICHA DE ALTA DE CLIENTE v.001",
+        "ubicacion": "file/Documentacion/cobranza/F1-PNP-CYC-001 FICHA DE ALTA DE CLIENTE v.001.pdf",
+        "imagen": "img/pdf.png" 
+    },
+    {
+        "nombre": "F1-PNP-CYC-001 FICHA DE ALTA DE CLIENTE v.001",
+        "ubicacion": "file/Documentacion/cobranza/F1-PNP-CYC-001 FICHA DE ALTA DE CLIENTE v.001.xlsx",
+        "imagen": "img/sobresalir.png" 
+    },
+    {
+        "nombre": "F1-PNP-CYC-002 DICTAMÉN DE CUENTAS INCOBRABLES v.001",
+        "ubicacion": "file/Documentacion/cobranza/F1-PNP-CYC-002 DICTAMÉN DE CUENTAS INCOBRABLES v.001.pdf",
+        "imagen": "img/pdf.png" 
+    },
+    {
+        "nombre": "F1-PNP-CYC-002 DICTAMÉN DE CUENTAS INCOBRABLES v.001",
+        "ubicacion": "file/Documentacion/cobranza/F1-PNP-CYC-002 DICTAMÉN DE CUENTAS INCOBRABLES v.001.xlsx",
+        "imagen": "img/sobresalir.png" 
+    },
+    {
+        "nombre": "F1-PNP-CYC-003 ENTRADAS DIARIAS",
+        "ubicacion": "file/Documentacion/cobranza/F1-PNP-CYC-003 ENTRADAS DIARIAS.pdf",
+        "imagen": "img/pdf.png" 
+    },
+    {
+        "nombre": "F1-PNP-CYC-004 COBRANZA TELEFONICA",
+        "ubicacion": "file/Documentacion/cobranza/F1-PNP-CYC-004 COBRANZA TELEFONICA.xlsx",
+        "imagen": "img/sobresalir.png" 
+    },
+    {
+        "nombre": "F1-PNP-CYC-005 RELACION COMPLEMENTOS DE PAGO1",
+        "ubicacion": "file/Documentacion/cobranza/F1-PNP-CYC-005 RELACION COMPLEMENTOS DE PAGO1.xlsx",
+        "imagen": "img/sobresalir.png" 
+    },
+    {
+        "nombre": "F1-PNP-CYC-006 RELACION DE DICTAMENES CUENTAS INCOBRABLES",
+        "ubicacion": "file/Documentacion/cobranza/F1-PNP-CYC-006 RELACION DE DICTAMENES CUENTAS INCOBRABLES.xlsx",
+        "imagen": "img/sobresalir.png" 
+    },
+    {
+        "nombre": "F1-PNP-CYC-007 REPORTE DE COMISIONES",
+        "ubicacion": "file/Documentacion/cobranza/F1-PNP-CYC-007 REPORTE DE COMISIONES.xlsx",
+        "imagen": "img/sobresalir.png" 
+    },
+    {
+        "nombre": "F1-PNP-CYC-008 RECIBO DE COBRANZA",
+        "ubicacion": "file/Documentacion/cobranza/F1-PNP-CYC-008 RECIBO DE COBRANZA.jpg",
+        "imagen": "img/img.png" 
+    },
+    {
+        "nombre": "FORMATO DE CAMBIO PT",
+        "ubicacion": "file/Documentacion/cobranza/FORMATO DE CAMBIO PT.docx",
+        "imagen": "img/doc.png" 
+    },
+    {
+        "nombre": "Hoja membretada - BLB_a",
+        "ubicacion": "file/Documentacion/cobranza/Hoja membretada - BLB_a.docx",
+        "imagen": "img/doc.png" 
+    },
+    {
+        "nombre": "Manual de Procedimientos Cobranza v.001",
+        "ubicacion": "file/Documentacion/cobranza/Manual de Procedimientos Cobranza v.001.docx",
+        "imagen": "img/doc.png" 
+    },
+    {
+        "nombre": "OBJETIVOS_BLB 2024",
+        "ubicacion": "file/Documentacion/cobranza/OBJETIVOS_BLB 2024.xlsx",
+        "imagen": "img/sobresalir.png" 
+    },
+    {
+        "nombre": "PLANTILLA PARA PAGOS COMISIONES",
+        "ubicacion": "file/Documentacion/cobranza/PLANTILLA PARA PAGOS COMISIONES.xlsx",
+        "imagen": "img/sobresalir.png" 
+    },
+    {
+        "nombre": "POLÍTICA DE COBRANZA",
+        "ubicacion": "file/Documentacion/cobranza/POLÍTICA DE COBRANZA.docx",
+        "imagen": "img/doc.png" 
+    },
+    {
+        "nombre": "POLÍTICA DE CRÉDITO",
+        "ubicacion": "file/Documentacion/cobranza/POLÍTICA DE CRÉDITO.docx",
+        "imagen": "img/doc.png" 
+    },
+    {
+        "nombre": "Políticas de Cobranza v.110418",
+        "ubicacion": "file/Documentacion/cobranza/Políticas de Cobranza v.110418.docx",
+        "imagen": "img/doc.png" 
+    },
+    {
+        "nombre": "Políticas de Crédito v.110418",
+        "ubicacion": "file/Documentacion/cobranza/Políticas de Crédito v.110418.docx",
+        "imagen": "img/doc.png" 
+    },
+    {
+        "nombre": "Políticas de Crédito y Cobranza",
+        "ubicacion": "file/Documentacion/cobranza/Políticas de Crédito y Cobranza.docx",
+        "imagen": "img/doc.png" 
+    }
+]

@@ -1,0 +1,144 @@
+body {
+    background-color: #eeeeee;
+}
+
+/*--    BANNER*/
+
+.content-grid {
+    display: grid;
+    grid-template-rows: 700px ;
+    grid-template-columns: 1fr 1fr 1fr;    
+    overflow: hidden;
+}
+
+.item-grid {
+    position: relative;
+    overflow: hidden;  
+    transition: all .3s ease-in-out 0s; 
+}
+
+.item-grid:hover {
+    transform: scale(1.1,1.1);
+}
+
+.item-grid img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.overlay {  
+    position: absolute; 
+    bottom: 100%;
+    left: 0;
+    right: 0;
+    background-color: #008bba54;
+    overflow: hidden;
+    width: 100%;
+    height: 0;
+    transition: .5s ease;
+}
+
+.item-grid:hover .overlay{
+    bottom: 0;
+    height: 100%;
+}
+
+.text {
+    
+    white-space: nowrap; 
+    color: white;
+    font-size: 20px;
+    position: absolute;
+    overflow: hidden;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+}
+
+.text p {
+    text-shadow: 1px 1px 1px #000;
+    text-align: justify;
+}
+
+.text a {
+    color: #ffffff;
+    margin-top: 30px;
+    background-color: #1564cc;
+    text-decoration: none;
+    font-size: 18px;
+    padding: 2px 20px;
+    border-radius: 17px;
+}
+
+/*--    Segundo menu de navegacion*/
+
+#nav-sec {
+    display: flex;
+    width: 100%;
+    height: 50px;
+    background-color: #1564cc;
+    align-items: center;
+    justify-content: center;
+}
+
+#nav-sec nav a{
+    text-decoration: none;
+    color: #fff;
+    margin-right: 80px;
+}
+
+/*--    Main Content*/
+
+.content-text {
+    width: 60%;
+    padding: 50px 60px;
+    background-color: #fff;
+    margin: auto;
+}
+
+.content-text h1 {
+    text-align: center;
+    padding: 30px 0px;
+}
+
+.content-text p {
+    text-align: justify;
+    padding: 0px 100px;
+}
+
+#btnEditar{
+    width: 40px;
+    height: 40px;
+    overflow: hidden;
+    background-color: #19e73b;
+    border: none;
+    padding: 5px;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+#btnEliminar{
+    width: 40px;
+    height: 40px;
+    overflow: hidden;
+    background-color: #f10707;
+    border: none;
+    padding: 5px;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+#btnEditar img, #btnEliminar img{
+    width: 100%;
+}
+
+#textEdit{
+    text-align: center;
+    font-size: 28px;
+}
+
+
+
+
